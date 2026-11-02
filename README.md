@@ -13,6 +13,7 @@ This course does not teach `printf` and `for` loops. It teaches what C really do
 | E02 | From Source to Executable: Preprocessor, Compiler, Assembler, Linker | [episodes/E02](episodes/E02) |
 | E03 | The Memory Map of a Process: text, data, bss, heap, stack | [episodes/E03](episodes/E03) |
 | E04 | Pointers for Real: addresses, arithmetic, decay, aliasing | [episodes/E04](episodes/E04) |
+| E05 | Structs, Alignment and Padding | [episodes/E05](episodes/E05) |
 
 ## Setup
 
