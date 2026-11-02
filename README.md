@@ -12,6 +12,7 @@ This course does not teach `printf` and `for` loops. It teaches what C really do
 | E01 | Who This Course Is For: C as a Portable Assembler, and Your Roadmap | [episodes/E01](episodes/E01) |
 | E02 | From Source to Executable: Preprocessor, Compiler, Assembler, Linker | [episodes/E02](episodes/E02) |
 | E03 | The Memory Map of a Process: text, data, bss, heap, stack | [episodes/E03](episodes/E03) |
+| E04 | Pointers for Real: addresses, arithmetic, decay, aliasing | [episodes/E04](episodes/E04) |
 
 ## Setup
 
