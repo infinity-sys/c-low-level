@@ -1,6 +1,6 @@
 # E02 · From Source to Executable: Preprocessor, Compiler, Assembler, Linker
 
-Video: VIDEO_LINK_PLACEHOLDER
+Video: https://youtu.be/uY6jdKJckdk
 
 ```sh
 make stages   # -E, -S, -c, link: stop after each stage

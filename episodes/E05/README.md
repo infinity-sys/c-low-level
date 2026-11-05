@@ -1,6 +1,6 @@
 # E05 · Structs, Alignment and Padding
 
-Video: VIDEO_LINK_PLACEHOLDER
+Video: https://youtu.be/VyzCR1rZE_4
 
 ```sh
 make run       # every program from the video

@@ -1,6 +1,6 @@
 # E01 · Who This Course Is For: C as a Portable Assembler, and Your Roadmap
 
-Video: VIDEO_LINK_PLACEHOLDER
+Video: https://youtu.be/oHOw2wzCzzI
 
 | File | What it shows |
 |---|---|

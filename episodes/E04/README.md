@@ -1,6 +1,6 @@
 # E04 · Pointers for Real: arithmetic, decay, GDB memory, aliasing
 
-Video: VIDEO_LINK_PLACEHOLDER
+Video: https://youtu.be/LOarYWS-cXU
 
 ```sh
 make run       # arith.c and decay.c with ASLR off

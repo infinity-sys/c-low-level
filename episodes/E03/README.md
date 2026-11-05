@@ -1,6 +1,6 @@
 # E03 · The Memory Map of a Process: text, data, bss, heap, stack
 
-Video: VIDEO_LINK_PLACEHOLDER
+Video: https://youtu.be/YnVPB5T8ZLk
 
 ```sh
 make run       # layout.c: the address of every kind of variable (ASLR off)
