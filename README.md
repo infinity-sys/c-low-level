@@ -14,6 +14,7 @@ This course does not teach `printf` and `for` loops. It teaches what C really do
 | E03 | The Memory Map of a Process: text, data, bss, heap, stack | [episodes/E03](episodes/E03) |
 | E04 | Pointers for Real: addresses, arithmetic, decay, aliasing | [episodes/E04](episodes/E04) |
 | E05 | Structs, Alignment and Padding | [episodes/E05](episodes/E05) |
+| E06 | Endianness, Bit Manipulation and Bit Fields | [episodes/E06](episodes/E06) |
 
 ## Setup
 
