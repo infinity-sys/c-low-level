@@ -1,6 +1,6 @@
 # E06 · Endianness, Bit Manipulation and Bit Fields
 
-Video: VIDEO_LINK_PLACEHOLDER
+Video: https://youtu.be/U-pL7vA0g3o
 
 ```sh
 make run       # every program from the video
