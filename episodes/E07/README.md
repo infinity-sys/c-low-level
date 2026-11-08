@@ -1,6 +1,6 @@
 # E07 · The Stack in C: Frames, Calling and Recursion Depth
 
-Video: VIDEO_LINK_PLACEHOLDER
+Video: https://youtu.be/G2ngC_B-Eww
 
 ```sh
 make run             # pow2_sol, frames (setarch -R), vla 1000
