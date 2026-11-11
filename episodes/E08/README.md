@@ -1,6 +1,6 @@
 # E08 · Memory Bugs and the Tools That Catch Them
 
-Video: VIDEO_LINK_PLACEHOLDER
+Video: https://youtu.be/KPGRQ37W9Io
 
 ```sh
 make usage           # gcc -fstack-usage: work() is 480 bytes static
