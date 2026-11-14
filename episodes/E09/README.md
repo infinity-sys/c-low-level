@@ -1,6 +1,6 @@
 # E09 · Interview Practice I: Pointers, Layout and Memory
 
-Video: VIDEO_LINK_PLACEHOLDER
+Video: https://youtu.be/bvTC-3yXs3Q
 
 ```sh
 make run             # the eight questions (q4_str and q8_local crash on purpose)
