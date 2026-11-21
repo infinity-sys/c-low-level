@@ -1,6 +1,6 @@
 # E10 · Undefined Behavior: Why the Compiler Assumes You Never Do It
 
-Video: VIDEO_LINK_PLACEHOLDER
+Video: https://youtu.be/9qWB3enindY
 
 ```sh
 make quiz && ./quiz   # E09 quiz solutions
