@@ -1,6 +1,6 @@
 # E11 · Integer Promotions, Conversions and Overflow
 
-Video: VIDEO_LINK_PLACEHOLDER
+Video: https://youtu.be/rEV6HqBGMcU
 
 ```sh
 make snippets   # E10 answers: the six snippets, with -fsanitize=bounds,signed-integer-overflow
