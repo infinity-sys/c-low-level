@@ -1,0 +1,4 @@
+Debian GNU/Linux 13 (trixie)
+Linux x86_64
+gcc (Debian 14.2.0-19) 14.2.0
+Debian clang version 19.1.7 (3+b1)
