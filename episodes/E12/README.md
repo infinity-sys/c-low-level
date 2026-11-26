@@ -1,6 +1,6 @@
 # E12 · Strict Aliasing, restrict and Type Punning
 
-Video: VIDEO_LINK_PLACEHOLDER
+Video: https://youtu.be/-Kptz5LUGzg
 
 ```sh
 make answers    # E11 answers: value and type of the six expressions (_Generic)
